@@ -14,5 +14,3 @@ also don't forget to upload the surface as previously mentioned above that we'd 
 
 ![image](https://github.com/user-attachments/assets/04c0d409-0174-4bda-b34e-251535023d59)
 
-Result example:
-![image](https://github.com/user-attachments/assets/a3e1d961-a972-42b0-ad36-cc8f92cebfa6)
