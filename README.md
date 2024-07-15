@@ -12,5 +12,7 @@ and then put the exported files there.
 
 also don't forget to upload the surface R29-1. as previously mentioned above that we'd like to get the XYZ coordinate of the well when intersecting the R29-1 below in subsurface.
 
+![image](https://github.com/user-attachments/assets/04c0d409-0174-4bda-b34e-251535023d59)
+
 Result example:
 ![image](https://github.com/user-attachments/assets/a3e1d961-a972-42b0-ad36-cc8f92cebfa6)
